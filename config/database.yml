@@ -1,0 +1,26 @@
+development:
+  adapter: mysql
+  pool: 25
+  database: totur-development
+  username: root
+  password: Letienhanh123
+  host: localhost
+  template: template0
+
+production:
+  adapter: mysql
+  pool: 25
+  database: totur-development
+  username: root
+  password: Letienhanh123
+  host: localhost
+  template: template0
+
+test:
+  adapter: mysql
+  pool: 25
+  database: totur-development
+  username: root
+  password: Letienhanh123
+  host: localhost
+  template: template0
