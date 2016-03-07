@@ -8,7 +8,6 @@ $ cd Tutor
 $ bundle install
 $ cd client
 $ npm install
-$ jspm install -y
 $ gulp bundle
 $ cd ..
 $ rails s
