@@ -4,6 +4,8 @@ To get started -
 ## Requirement: Install Ruby on Rails (Ruby 2.3.0, Rails 4.2.5)
 ```
 $ git clone git@github.com:ZokavnOrgnization/Tutor.git
+$ npm install gulp -g
+$ npm install jspm -g
 $ cd Tutor
 $ bundle install
 $ cd client
